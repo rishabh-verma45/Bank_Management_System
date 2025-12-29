@@ -6,35 +6,28 @@ A robust, modular desktop application developed in **Java** that simulates core 
 
 ### **User Onboarding & Security**
 
-* 
-**Three-Stage Sign-Up:** Comprehensive data collection including personal details, additional financial info, and service preferences.
+* **Three-Stage Sign-Up:** Comprehensive data collection including personal details, additional financial info, and service preferences.
 
 
-* 
-**Credential Generation:** Automatically generates a secure 16-digit Card Number and 4-digit PIN upon successful registration.
+* **Credential Generation:** Automatically generates a secure 16-digit Card Number and 4-digit PIN upon successful registration.
 
 
-* 
-**Secure Authentication:** PIN-based login system to access banking services.
+* **Secure Authentication:** PIN-based login system to access banking services.
 
 
 
 ### **ATM Operations**
 
-* 
-**Deposits & Withdrawals:** Real-time balance updates with mandatory balance checking for all withdrawals.
+* **Deposits & Withdrawals:** Real-time balance updates with mandatory balance checking for all withdrawals.
 
 
-* 
-**Balance Inquiry:** Instant access to current account standing.
+* **Balance Inquiry:** Instant access to current account standing.
 
 
-* 
-**Mini Statement:** View recent transaction history including date, type (Deposit/Withdrawal), and amount.
+* **Mini Statement:** View recent transaction history including date, type (Deposit/Withdrawal), and amount.
 
 
-* 
-**PIN Change:** Functional utility to update security credentials.
+* **PIN Change:** Functional utility to update security credentials.
 
 
 
@@ -42,20 +35,16 @@ A robust, modular desktop application developed in **Java** that simulates core 
 
 ## 🛠 Tech Stack
 
-* 
-**Language:** Java (JDK 8 or higher).
+* **Language:** Java (JDK 8 or higher).
 
 
-* 
-**Frontend:** Java Swing & AWT for the Graphical User Interface.
+* **Frontend:** Java Swing & AWT for the Graphical User Interface.
 
 
-* 
-**Database:** MySQL Server for persistent data storage.
+* **Database:** MySQL Server for persistent data storage.
 
 
-* 
-**Connectivity:** JDBC (Java Database Connectivity) with MySQL Connector/J.
+* **Connectivity:** JDBC (Java Database Connectivity) with MySQL Connector/J.
 
 
 
@@ -80,16 +69,13 @@ A robust, modular desktop application developed in **Java** that simulates core 
 
 ### **Hardware (Recommended)**
 
-* 
-**Processor:** Dual-Core (Intel i3 equivalent or better).
+* **Processor:** Dual-Core (Intel i3 equivalent or better).
 
 
-* 
-**RAM:** 4 GB (minimum 2 GB).
+* **RAM:** 4 GB (minimum 2 GB).
 
 
-* 
-**Storage:** 5 GB free space.
+* **Storage:** 5 GB free space.
 
 
 
@@ -111,7 +97,6 @@ git clone https://github.com/rishabh-verma45/Bank_Management_System.git
 * Install MySQL Server.
 * Create a database named `banksystem` or `bank_db`.
 
-
 * Update the `Connn.java` file with your MySQL root username and password.
 
 
@@ -124,12 +109,8 @@ git clone https://github.com/rishabh-verma45/Bank_Management_System.git
 * Ensure the `jcalendar` library is included for the date chooser in the signup form.
 
 
-
-
 4. **Run the Application:**
 * Execute `Login.java` to start the application.
-
-
 
 
 
@@ -137,38 +118,20 @@ git clone https://github.com/rishabh-verma45/Bank_Management_System.git
 
 ## 🏗 Future Enhancements
 
-* 
-**Fund Transfers:** Direct money transfers between bank accounts.
+* **Fund Transfers:** Direct money transfers between bank accounts.
 
 
-* 
-**Loan Module:** Integrated loan applications and repayment tracking.
+* **Loan Module:** Integrated loan applications and repayment tracking.
 
 
-* 
-**Real-time Alerts:** Integration with SMS/Email APIs for transaction notifications.
+* **Real-time Alerts:** Integration with SMS/Email APIs for transaction notifications.
 
 
-* 
-**UI Overhaul:** Transition from Swing to a more modern framework for a professional aesthetic.
-
-
+* **UI Overhaul:** Transition from Swing to a more modern framework for a professional aesthetic.
 
 ---
 
 ## 👥 Contributors
 
-* 
-**Rishabh Verma** (Roll No. 2401331550098).
+* **Rishabh Verma**.
 
-
-* 
-**Sameer Patel** (Roll No. 2401331550103).
-
-
-* 
-**Shreya** (Roll No. 2401331550114).
-
-
-
-**Supervisor:** Mr. Sachin Chawla, Professor, CSE(IOT).
